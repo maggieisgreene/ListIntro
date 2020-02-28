@@ -1,0 +1,10 @@
+/Users/maggiegreene/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.deps.json
+/Users/maggiegreene/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.runtimeconfig.json
+/Users/maggiegreene/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.runtimeconfig.dev.json
+/Users/maggiegreene/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.dll
+/Users/maggiegreene/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.pdb
+/Users/maggiegreene/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.csprojAssemblyReference.cache
+/Users/maggiegreene/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.AssemblyInfoInputs.cache
+/Users/maggiegreene/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.AssemblyInfo.cs
+/Users/maggiegreene/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.dll
+/Users/maggiegreene/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.pdb
